@@ -1,0 +1,5 @@
+output.gif
+output.png
+*.xml
+*.iml
+.idea/
