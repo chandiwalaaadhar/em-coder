@@ -39,7 +39,7 @@ go run main.go decode /path/to/output.png
 
 Encoded Image:
 
-![Encoded Image for One of My Substack Article Text](https://github.com/chandiwalaaadhar/image-data-encoder/assets/27367779/cc9796a2-1c87-4532-b8ce-ea3503280956)
+![Encoded Image for One of My Substack Article Text](https://github.com/chandiwalaaadhar/em-coder/assets/27367779/bff189a8-c88f-49b9-9764-b3d146076559)
 
 This Image isEencoded from the text of one of my Substack articles
 [https://aadharchandiwala.substack.com/p/what-makes-googles-golang-optimised]
